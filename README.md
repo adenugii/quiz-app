@@ -32,7 +32,7 @@ Aplikasi ini dirancang dengan fokus pada **User Experience (UX)**, performa ting
 
 ## ✨ Fitur Utama
 
-Aplikasi ini memenuhi seluruh kriteria soal dengan beberapa fitur tambahan ("Nilai Plus"):
+Aplikasi ini memenuhi seluruh kriteria soal dengan beberapa fitur tambahan:
 
 1.  **Authentication System (Identification):** Login sederhana menggunakan nama pengguna sebagai identitas sesi.
 2.  **Dynamic Quiz Data:** Mengambil soal secara *real-time* dari [OpenTDB API](https://opentdb.com/).
