@@ -2,7 +2,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38bdf8) ![Status](https://img.shields.io/badge/Status-Completed-green)
 
-Aplikasi kuis interaktif berbasis web yang dibangun sebagai bagian dari Technical Test untuk posisi **Frontend Engineer** di **PT DOT Indonesia**.
+Aplikasi kuis interaktif berbasis web yang dibangun sebagai bagian dari Technical Test untuk posisi intern **Frontend Engineer** di **PT DOT Indonesia**.
 
 Aplikasi ini dirancang dengan fokus pada **User Experience (UX)**, performa tinggi, dan **State Persistence** (mekanisme resume otomatis).
 
