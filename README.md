@@ -19,12 +19,11 @@ Aplikasi ini dirancang dengan fokus pada **User Experience (UX)**, performa ting
 
 ## 📸 Demo & Preview
 
-> *Catatan: Screenshot aplikasi dapat dilihat di folder `/docs` atau link video demo di bawah.*
-
 | Halaman Login | Halaman Quiz | Halaman Result |
 |:---:|:---:|:---:|
 | ![Login UI](./public/docs/login-preview.png) | ![Quiz UI](./public/docs/quiz-preview.png) | ![Result UI](./public/docs/result-preview.png) |
 
+**🔗 Link Deployment:** [https://frontend-challenge-quiz.vercel.app/](https://frontend-challenge-quiz.vercel.app/)
 
 **🎥 Link Video Demo:** to be continued
 
